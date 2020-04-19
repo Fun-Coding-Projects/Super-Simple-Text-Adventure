@@ -1,0 +1,6 @@
+Walking in the forest you come to a fork in the path. The left fork looks sunny
+and opens out onto a meadow, the right goes deeper into the dark forest.  Which 
+way would you like to go?
+
+1) Sunny meadow 
+2) Dark forest 
