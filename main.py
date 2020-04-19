@@ -1,4 +1,7 @@
 #!/usr/bin/env python3.8
+'''
+Super Simple Text Adventure Game by Simon Holland BA Hons / Inyoka 
+'''
 
 import os
 
